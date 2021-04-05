@@ -1,0 +1,12 @@
+region = "eu-central-1"
+mycider = "10.0.0.0/16"
+name = "dev"
+public1_subnet_cider= "10.0.1.0/24"
+public2_subnet_cider= "10.0.2.0/24"
+private1_subnet_cider= "10.0.3.0/24"
+private2_subnet_cider= "10.0.4.0/24"
+AZ_a= "eu-central-1a"
+AZ_b= "eu-central-1b"
+
+ec2_ami= "ami-0767046d1677be5a0"
+key_name= "prod_key"

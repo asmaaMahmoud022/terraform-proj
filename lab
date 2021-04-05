@@ -1,0 +1,5 @@
+1-create two workspaces dev and prod
+2-create two variable definition files(.tfvars) for the two environments
+3-separate network resources into network module
+4-apply your code to create two environments one in us-east-1 and eu-central-1
+5-run local-exec provisioner to print the public_ip of bastion ec2
